@@ -20,10 +20,10 @@ const config = {
   
   AUTO_REJECT_CALLS: process.env.AUTO_REJECT_CALLS !== undefined ? process.env.AUTO_REJECT_CALLS === 'true' : false, 
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
-  MODE: process.env.MODE || "private",
-  OWNER_NAME: process.env.OWNER_NAME || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+  MODE: process.env.MODE || "public",
+  OWNER_NAME: process.env.OWNER_NAME || "𝙼𝚁 𝙳𝙸𝙽𝙴𝚂𝙷",
   AUTO_BLOCK: process.env.AUTO_BLOCK || "212,99,90",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "254762016957",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "𝟶𝟽𝟾𝟷𝟻𝟹𝟼𝟻𝟿𝟻",
   SUDO_NUMBERS: process.env.SUDO_NUMBERS || "254728746852,254742063632",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyAkHGe6qWMujR2BjM468vQbY2RIbp0VXyc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
