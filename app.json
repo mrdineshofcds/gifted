@@ -1,8 +1,8 @@
 {
-  "name": "gifted-md",
-  "description": "I am Gifted-Md WhatsApp MultiDevice Bot built in NodeJs to enhance the experience",
+  "name": "𝚀𝚄𝙴𝙴𝙽 𝚂𝙰𝙳𝚄",
+  "description": "I am 𝚀𝚄𝙴𝙴𝙽 𝚂𝙰𝙳𝚄 WhatsApp MultiDevice Bot built in NodeJs to enhance the experience",
   "website": "https://session.giftedtech.my.id",
-  "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
+  "logo": "https://iili.io/25KrqUN.jpg",
   "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
   "repository": "https://github.com/mouricedevs/gifted",
   "success_url": "/",
@@ -18,12 +18,12 @@
       "value": "private"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "𝙼𝚛 𝙳𝙸𝙽𝙴𝚂𝙷",
       "required": true,
       "value": "Gifted Tech"
     },
     "OWNER_NUMBER": {
-      "description": "Put Owner Number Here",
+      "description": "𝟶𝟽𝟾𝟷𝟻𝟹𝟼𝟻𝟿𝟻",
       "required": true,
       "value": "254762016957"
     },
